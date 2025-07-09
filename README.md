@@ -14,7 +14,7 @@ Docker/Singularity
 
 ## Options:
 
---name "OUTNAME" : Name for output
+```--name "OUTNAME"``` Name for output
 
 --bfile "PLINKSTUB" : Full path to PLINK genetic file in binary format. The filename should be the name without the .bed/.bim/.fam.
 
